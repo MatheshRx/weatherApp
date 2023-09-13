@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34127766610",
+    "project_id": "pramya-e8930",
+    "storage_bucket": "pramya-e8930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34127766610:android:c93e6824914d831d3b6b8b",
+        "android_client_info": {
+          "package_name": "com.pramya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34127766610-bq5bfrung3hu6nmi1sf8nvs7slvd0dj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdQspaDzh0pics6X7Q7h2ikD-JKI9rpSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34127766610-bq5bfrung3hu6nmi1sf8nvs7slvd0dj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
